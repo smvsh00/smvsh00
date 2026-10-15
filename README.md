@@ -1,5 +1,3 @@
-<!-- SMVSH® — CREATIVE DESIGN PORTFOLIO -->
-
 <div align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=65&duration=3000&pause=1200&color=EB4604&center=true&vCenter=true&width=900&height=110&lines=SMVSH%C2%AE" alt="SMVSH">
@@ -10,15 +8,13 @@
 
   <br><br>
 
-  <img src="https://komarev.com/ghpvc/?username=smvsh00&label=ПРОСМОТРЫ+ПРОФИЛЯ&color=EB4604&style=flat-square" alt="Просмотры профиля">
-
-  <br><br>
-
   <img src="https://img.shields.io/badge/ИРКУТСК-РОССИЯ-1E1E1E?style=for-the-badge&labelColor=EB4604" alt="Местоположение">
 
 </div>
 
 <br>
+
+---
 
 ---
 
